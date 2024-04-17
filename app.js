@@ -121,8 +121,6 @@ mode2.addEventListener("click",() => {
   }
 });
 
-var copy = document.querySelector(".images").cloneNode(true);
-document.querySelector(".logos").appendChild(copy);
 
 
 
